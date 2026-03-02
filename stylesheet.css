@@ -1,5 +1,4 @@
 body {
-body {
   margin: 0;
 }
 
@@ -35,7 +34,6 @@ body {
   align-items: center;
 }
 
-/* チェックボックス装飾 */
 .custom-checkbox input {
   display: none;
 }
