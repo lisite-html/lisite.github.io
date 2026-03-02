@@ -1,0 +1,23 @@
+.link_button {
+  font-weight: bold;/*太字に*/
+  text-decoration: none;/*下線消す*/
+  background: #F4A460;/*背景を柿色に*/
+  color:white;/*文字を白に*/
+  padding:5px 10px;/*内側の余白*/
+  border-radius: 20px;/*角を丸くする*/
+  font-family: 'Avenir','Arial';/*フォントをいい感じに*/
+}
+
+.link_button: hover {
+  background: #D2691E;/*背景色をオレンジ色に*/
+  text-decoration: none;/*下線を消す*/
+}
+
+.div-img {
+  width: 150px;
+  height: 250px;
+}
+
+.center{
+  text-align: center;
+}
